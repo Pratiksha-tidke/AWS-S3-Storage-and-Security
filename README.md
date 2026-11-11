@@ -1,5 +1,12 @@
 # AWS-S3-Storage-and-Security
 
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white" alt="Amazon S3" />
+  <img src="https://img.shields.io/badge/AWS%20IAM-DD344C?style=for-the-badge&logo=aws-iam&logoColor=white" alt="AWS IAM" />
+  <img src="https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=shield&logoColor=white" alt="Cybersecurity" />
+</p>
+
 ## Table of Contents
 
 - [1. Introduction](#1-introduction)
@@ -232,3 +239,20 @@ Through this project, I learned how Amazon S3 provides cloud-based object storag
 ### 12. Disclaimer
 
 This project was created for educational purposes to understand Amazon S3, cloud storage management, and AWS security configurations. All activities were performed in a controlled AWS learning environment. No unauthorized access or testing was performed on third-party resources.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
